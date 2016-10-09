@@ -22,8 +22,8 @@ nanoclipboard's CDN provided by [jsDelivr CDN](https://www.jsdelivr.com)
 > https://www.jsdelivr.com/projects/nanoclipboard
 
 ## Demo
-- [basic-copy.html](http://htmlpreview.github.io/?https://github.com/bornbit/nanoclipboard/blob/master/demo/basic-copy.html)
-- [input-copy.html](http://htmlpreview.github.io/?https://github.com/bornbit/nanoclipboard/blob/master/demo/input-copy.html)
+- [basic-copy.html](https://rawgit.com/bornbit/nanoclipboard/master/demo/basic-copy.html)
+- [input-copy.html](https://rawgit.com/bornbit/nanoclipboard/master/demo/input-copy.html)
 
 ## License
 
