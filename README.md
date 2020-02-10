@@ -1,5 +1,7 @@
 # nanoclipboard
 
+[![](https://data.jsdelivr.com/v1/package/gh/bornbit/nanoclipboard/badge)](https://www.jsdelivr.com/package/gh/bornbit/nanoclipboard)
+
 nanoclipboard is a JavaScript library for copy text to the clipboard. nanoclipboard has no dependencies.
 
 ## Usage
